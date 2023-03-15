@@ -34,7 +34,7 @@ An actor may only `Audition` for one `Role`, while a `Role` may have many
 
 ## Getting started
 
-Run `pipenv install && pipenv shell`
+Run `pipenv install; pipenv shell`
 
 ## Migrations
 
